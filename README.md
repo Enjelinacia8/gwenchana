@@ -1,28 +1,29 @@
+# Overview
 Profile Card
 Profile Card adalah halaman kartu profil interaktif dengan navigasi antar-anggota, fitur dark mode, dan like counter. Project ini dibuat sebagai study case GitReady 2.0 (Workshop Git & GitHub) untuk melatih kolaborasi tim menggunakan branch, pull request, dan code review.
 
-Visualisasi
+## Visualisasi
 ![Tampilan Profile Card](https://github.com/user-attachments/assets/0898a636-7bcc-48e5-8584-5b3ce89f3bd4)
 
-
+## Tech Stack
 Tech Stack
 HTML5
 CSS3
 JavaScript (Vanilla)
 Git & GitHub
 
-Fitur Utama
+## Fitur Utama
 [x] Toggle Dark Mode (teks tombol berubah antara Dark Mode dan Light Mode)
 [x] Like Counter interaktif, jumlah like tersimpan terpisah untuk tiap anggota
 [x] Navigasi antar-anggota (nama, role, foto, deskripsi, dan skill berubah otomatis)
 [x] Responsive layout untuk layar kecil
 
-Contribution
+## Contribution
 Enjelina (Project Initiator): Membuat repository, mengatur akses kolaborator, dan commit index.html awal ke main 
 Vino (Styling Engineer): Membuat branch styling, menambahkan dan menghubungkan style.css ke index.html 
 Rashya (Script Engineer): Membuat branch scripting, menambahkan dan menghubungkan script.js ke index.html
 
-What I Learned
+## What I Learned
 Version control mencatat setiap perubahan pada project, sehingga kita bisa melihat apa yang berubah, siapa yang mengubah, dan kembali ke versi sebelumnya.
 Git dan GitHub itu berbeda. Git adalah alat pencatat riwayat yang berjalan di laptop (bisa offline), sedangkan GitHub adalah tempat menyimpan dan membagikan project secara online.
 Alur dasar Git: edit file, git add, git commit, lalu git push. Commit adalah titik simpan yang membuat kita bisa kembali ke kondisi project di titik mana pun, bukan sekadar tombol save.
